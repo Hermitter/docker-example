@@ -5,8 +5,8 @@ This repository contains a basic setup for settings up a Docker container on a R
 ### Host Devices
 
 - **HAL:** Will be one of the following
-  - **Bus**: `/dev/Bus: spidev0.0`
-  - **Kernel Modules**: `/dev/Modules: matrixio_regmap`
+  - **Bus**: `/dev/spidev0.0`
+  - **Kernel Modules**: `/dev/matrixio_regmap`
 - **NFC**: `/dev/spidev0.1`
 - **Hardware Microphone**: `/dev/snd:/dev/snd`
   - This will block microphone usage for other applications.
