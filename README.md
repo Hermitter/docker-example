@@ -13,9 +13,9 @@ This repository contains a basic setup for settings up a Docker container on a R
 
 # Prerequisites
 
-- Setup a Raspberry Pi (2/3/4)
-- [Install MATRIX HAL](https://matrix-io.github.io/matrix-documentation/matrix-hal/getting-started/installation-package/)
-- (Optional) Install Kernel Modules for ([MATRIX Voice](https://matrix-io.github.io/matrix-documentation/matrix-voice/resources/microphone/#usage) or [MATRIX Creator](https://matrix-io.github.io/matrix-documentation/matrix-creator/resources/microphone/#usage))
+- Setup a compatible Raspberry Pi (2/3/4).
+- [Install MATRIX HAL](https://matrix-io.github.io/matrix-documentation/matrix-hal/getting-started/installation-package/).
+- (Optional) Install Kernel Modules for [MATRIX Voice](https://matrix-io.github.io/matrix-documentation/matrix-voice/resources/microphone/#usage) or [MATRIX Creator](https://matrix-io.github.io/matrix-documentation/matrix-creator/resources/microphone/#usage).
 
 # Install Docker
 
