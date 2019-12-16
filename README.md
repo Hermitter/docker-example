@@ -2,14 +2,14 @@
 
 This repository contains a basic setup for settings up a Docker container on a Raspberry Pi with access to a MATRIX device.
 
-### Devices
+### Host Devices
 
-- **HAL:** Will be on of the following
+- **HAL:** Will be one of the following
   - **Bus**: `/dev/Bus: spidev0.0`
   - **Kernel Modules**: `/dev/Modules: matrixio_regmap`
 - **NFC**: `/dev/spidev0.1`
 - **Hardware Microphone**: `/dev/snd:/dev/snd`
-  - This will block microphone usage for other applications
+  - This will block microphone usage for other applications.
 
 # Prerequisites
 
