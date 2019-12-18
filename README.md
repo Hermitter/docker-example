@@ -33,7 +33,9 @@ docker run hello-world
 
 # Build Docker Image
 
-TBC...
+```
+docker build -t matrix .
+```
 
 # Run Docker Image
 
